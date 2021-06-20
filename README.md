@@ -1,10 +1,10 @@
 
 
-<h1 align="centre">DAISYXMUSIC V4.5 🎵</h1>
+<h1 align="centre">PRINCE VC MUSIC BOT</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+### Available on telegram as [@Prince_Music_Robot](https://t.me/Prince_Music_Robot)
 
 <p align="center">
   <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
@@ -28,7 +28,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamOfDaisyX/DaisyXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Prince301102/princevcmusicbot)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
